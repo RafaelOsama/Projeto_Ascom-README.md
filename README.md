@@ -17,7 +17,10 @@ Nesse curso você vai dominar todo **Git** e **GitHub** _do zero ao profissinal.
 
 
 ### Rede social:
-[**Instagram**](https://instagram.com/rafaelosama)
+[Instagram](https://instagram.com/rafaelosama)
 
-[**Youtube**](https:youtube,com/c/sujeitoprogramador)
+[Youtube](https:youtube,com/c/sujeitoprogramador)
 
+>Este é um blockquote, usado para destacar alguma area.
+>
+>Segunda area destacada.
