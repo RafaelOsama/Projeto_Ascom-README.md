@@ -6,7 +6,7 @@ Nesse curso você vai dominar todo **Git** e **GitHub** _do zero ao profissinal.
 _Entendendo o que é **git**, aprendendo sobre **repositórios**, trabalhando com **branches**._
 
 ### Rede social:
-[Instagram](https://instagram.com/rafaelosama)
+[**Instagram**](https://instagram.com/rafaelosama)
 
-[Youtube](https:youtube,com/c/sujeitoprogramador)
+[**Youtube**](https:youtube,com/c/sujeitoprogramador)
 
