@@ -3,7 +3,10 @@
 Nesse curso você vai dominar todo **Git** e **GitHub** _do zero ao profissinal._
 
 ## Módulos:
-_Entendendo o que é **git**, aprendendo sobre **repositórios**, trabalhando com **branches**._
+* Começando com GIT.
+* Aprendendo sobre branches.
+* GIT avançado.
+* Usando GitHub de forma profissional.
 
 ### Rede social:
 [**Instagram**](https://instagram.com/rafaelosama)
