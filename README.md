@@ -1,12 +1,6 @@
 # Bem vindo ao curso Git e GitHub.
-Nesse curso você vai dominar todo Git e GitHub do zero ao profissinal.
+Nesse curso você vai dominar todo **Git** e **GitHub** _do zero ao profissinal._
 
 ## Módulos:
-Entendendo o que é git, aprendendo sobre repositórios, trabalhando com branches.
+_Entendendo o que é **git**, aprendendo sobre **repositórios**, trabalhando com **branches**._
 
-# Título <h1>
-## Título <h2>
-### Título <h3>
-#### Título <h4>
-##### Título <h5>
-###### Título <h6>
