@@ -10,9 +10,9 @@
 Nessa página você vai encontrar todo campo de obras e desenvolvimento referente a **Novacap** em todo  _Distrito Federal e entorno._
 
 **Ultimas updates:**
-- [ ] Site responsivo.
-- [ ] Login com rede social.
+
 - [x] Pagina sobre a empresa.
+- [x] Cartões iniciais.
 
 
 ## Cartões iniciais:
@@ -50,7 +50,8 @@ Nessa página você vai encontrar todo campo de obras e desenvolvimento referent
 [Twitter](https://twitter.com/novacap)
 
 [Flickr](https://www.novacap.df.gov.br/flickr/)
-
+>
+>
 >Acima encontramos alguns endereços virtuais da Novacap
 >
 >Avisos e comunicados oficiais
