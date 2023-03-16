@@ -1,16 +1,18 @@
 ![Logo da novacap](https://assets.infra.grancursosonline.com.br/projeto/novacap-companhia-urbanizadora-da-nova-capital-do-brasil.png)
 
-[Bem vindo](#bem-vindo-ao-curso-git-e-github) |
-[Módulos](#módulos) |
+[Cartões iniciais](#cartões-iniciais) |
 [Rede social](#rede-social) |
-[Comandos](#comando-para-rodar-o-projeto)
+[Avisos & Comunicados](#aviso-legal--comunicados-oficiais) |
+[Notícias](#notícias) |
+[TV Novacap](#tv-novacap)
+
 # Bem vindo a pagina intranet da Novacap.
 Nessa página você vai encontrar todo campo de obras e desenvolvimento referente a **Novacap** em todo  _Distrito Federal e entorno._
 
 **Ultimas updates:**
-- [x] Site responsivo.
-- [ ] Login com facebook.
-- [ ] Pagina sobre a empresa.
+- [ ] Site responsivo.
+- [ ] Login com rede social.
+- [x] Pagina sobre a empresa.
 
 
 ## Cartões iniciais:
