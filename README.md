@@ -1,11 +1,11 @@
-![Logo do Git](https://miro.medium.com/max/383/0*5g3mp6zgIoqprOgV.png)
+![Logo da novacap](https://assets.infra.grancursosonline.com.br/projeto/novacap-companhia-urbanizadora-da-nova-capital-do-brasil.png)
 
 [Bem vindo](#bem-vindo-ao-curso-git-e-github) |
 [Módulos](#módulos) |
 [Rede social](#rede-social) |
 [Comandos](#comando-para-rodar-o-projeto)
-# Bem vindo ao curso Git e GitHub.
-Nesse curso você vai dominar todo **Git** e **GitHub** _do zero ao profissinal._
+# Bem vindo a pagina intranet da Novacap.
+Nessa página você vai encontrar todo campo de obras e desenvolvimento referente a **Novacap** em todo  _Distrito Federal e entorno._
 
 **Ultimas updates:**
 - [x] Site responsivo.
@@ -13,28 +13,60 @@ Nesse curso você vai dominar todo **Git** e **GitHub** _do zero ao profissinal.
 - [ ] Pagina sobre a empresa.
 
 
-## Módulos:
-* Começando com GIT.
-* Aprendendo sobre branches.
-* GIT avançado.
-* Usando GitHub de forma profissional.
+## Cartões iniciais:
+* Diretoria Administrativa.
+* Diretoria Financeira.
+* Diretoria de Edificações.
+* Diretoria de Urbanização.
+* Diretoria Jurídica.
+* Normas Gerais. 
+* Scrullum Ponto Eletrônico.
+* DIGEP- DRH.
+* Ações e projetos.
+* Revista.
 
-1. Começando com GIT.  
-   1. O que é Git?
-   2. Instalando git na máquina.
-2. Aprendendo sobre branches.
-3. GIT avançado.
-4. Usando GitHub de forma profissional.
+## Aviso Legal & Comunicados oficiais
+### Fique atento aos avisos da Novacap
+1. Avisos e comunicados oficiais.
+2. Avisos e comunicados oficiais.
+3. Avisos e comunicados oficiais.
+4. Avisos e comunicados oficiais.
+5. Avisos e comunicados oficiais.
+6. Avisos e comunicados oficiais.
+
+## Notícias
+### Saiba todas as obras e ações que estão acontecendo em Brasília e no Distrito Federal com participação e fiscalização da Companhia Urbanizadora da Nova Capital
+
+
+1. Obras, ações e notícias.
+2. Obras, ações e notícias.
+3. Obras, ações e notícias.
+4. Obras, ações e notícias.
+5. Obras, ações e notícias.
+6. Obras, ações e notícias.
+
+## TV Novacap
+### Todas obras e ações que estão ocorrendo no Distrito Federal
 
 
 ### Rede social:
-[Instagram](https://instagram.com/rafaelosama)
+[Instagram](https://www.instagram.com/novacapoficial/)
 
-[Youtube](https:youtube,com/c/sujeitoprogramador)
+[Youtube](https://www.youtube.com/channel/UC0owvcR8qqAXMGMkUFPDJ1g)
 
->Este é um blockquote, usado para destacar alguma area.
+[Twitter](https://twitter.com/novacap)
+
+[Flickr](https://www.novacap.df.gov.br/flickr/)
+
+>Acima encontramos alguns endereços virtuais da Novacap
 >
->Segunda area destacada.
+>Avisos e comunicados oficiais
+>
+>Notícias
+>
+>TV Novacap
+>
+
 
 
 ### Comando para rodar o projeto:
