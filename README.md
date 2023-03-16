@@ -70,6 +70,40 @@ Nessa página você vai encontrar todo campo de obras e desenvolvimento referent
 * PHP
 * WordPress
 #
+**Ex PHP do projeto**
+```PHP
+<?php
+require_once 'header.php';
+?>
+
+
+<!--Navbar laranja e imagem-->
+
+<?php
+the_custom_logo();
+
+$args = array(
+    'post_type' => 'banners',
+    'post_status' => 'publish',
+    'posts_per_page' => 1,
+    'category_name' => 'principal'
+);
+
+$query = new WP_Query($args);
+if ($query->have_posts()):
+    while ($query->have_posts()):
+        $query->the_post();
+        ?>
+        <div class="imagem-banner">
+            <?php the_post_thumbnail(); ?>
+        </div>
+        <?php
+    endwhile;
+endif;
+?> 
+...
+
+```
 **Ex JavaScript do projeto**
 ```js
 $(".planet").click(function() {
@@ -194,6 +228,7 @@ img.custom-logo {
 ...
 
 ```
+
 
 
 **Propriedade** | **Descrição**
