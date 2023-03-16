@@ -27,23 +27,14 @@ Nessa página você vai encontrar todo campo de obras e desenvolvimento referent
 
 ## Aviso Legal & Comunicados oficiais
 ### Fique atento aos avisos da Novacap
-1. Avisos e comunicados oficiais.
-2. Avisos e comunicados oficiais.
-3. Avisos e comunicados oficiais.
-4. Avisos e comunicados oficiais.
-5. Avisos e comunicados oficiais.
-6. Avisos e comunicados oficiais.
+* Avisos e comunicados oficiais.
 
 ## Notícias
 ### Saiba todas as obras e ações que estão acontecendo em Brasília e no Distrito Federal com participação e fiscalização da Companhia Urbanizadora da Nova Capital
 
 
-1. Obras, ações e notícias.
-2. Obras, ações e notícias.
-3. Obras, ações e notícias.
-4. Obras, ações e notícias.
-5. Obras, ações e notícias.
-6. Obras, ações e notícias.
+* Obras, ações e notícias.
+
 
 ## TV Novacap
 ### Todas obras e ações que estão ocorrendo no Distrito Federal
@@ -99,7 +90,7 @@ function showNAme(name){
 
 Propriedade | Descrição
 ----------- | -----------
-name | Informar o **nome** do usuario
-size | Definir o tamanho do campo
-background | Cor de fundo da area em _HEX_
-onPress | Função chamada quando clicar no botão
+*Novacap Ouvidoria* |  https://ouvidoria.df.gov.br/ 
+*Sujestão* | https://ouvidoria.df.gov.br/carta-servico-cidadao/
+*Acesso a informações* | https://www.df.gov.br/category/acesso-a-informacao/
+*Reclamações* | _162_
