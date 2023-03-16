@@ -153,32 +153,7 @@ function centerPlanet3() {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>teste carrossel</title>
 </head>
-
-<!-- CSS -->
-<style>
-    * {
-        margin: 0;
-        padding: 0;
-    }
-
-    body {
-        padding: 20px;
-        background: #eee;
-        user-select: none;
-    }
-
-    /* remove os indicadores de posição */
-    [type=radio] {
-        display: none;
-    }
-
-    #slider {
-        margin-left: 646px;
-        height: 35vw;
-        position: relative;
-        perspective: 1000px;
-        transform-style: preserve-3d;
-    }
+</html>
    ...
 
 ```
