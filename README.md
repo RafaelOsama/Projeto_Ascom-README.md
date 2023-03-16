@@ -64,11 +64,16 @@ Nessa página você vai encontrar todo campo de obras e desenvolvimento referent
 #
 # Tecnologias utilizadas no Projeto/Ascom
 
-* HTML
-* CSS
-* JavaScript
 * PHP
+
+* JavaScript
+
+* HTML
+
+* CSS
+
 * WordPress
+
 #
 **Ex PHP do projeto**
 ```PHP
