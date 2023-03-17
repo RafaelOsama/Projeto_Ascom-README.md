@@ -217,3 +217,13 @@ img.custom-logo {
 *Sujestão* | https://ouvidoria.df.gov.br/carta-servico-cidadao/
 *Acesso a informações* | https://www.df.gov.br/category/acesso-a-informacao/
 *Reclamações* | _162_
+>
+>
+**Colaboraodores** | **GitHub page**
+-------------- | ----------------
+**Fillipe Vitor Figueiredo Ramos** | xxxxxxxxxxxx
+**Rafael Alencar do Amaral** | xxxxxxxxxxxx
+**Daniel Matuda** | xxxxxxxxxxxx
+**Gabriel Lobo** | xxxxxxxxxxxxx
+**Paula Santana** | xxxxxxxxxxxx
+
