@@ -221,9 +221,9 @@ img.custom-logo {
 >
 **Colaboraodores** | **GitHub page**
 -------------- | ----------------
-**Fillipe Vitor Figueiredo Ramos** | xxxxxxxxxxxx
-**Rafael Alencar do Amaral** | xxxxxxxxxxxx
-**Daniel Matuda** | xxxxxxxxxxxx
-**Gabriel Lobo** | xxxxxxxxxxxxx
-**Paula Santana** | xxxxxxxxxxxx
+**Fillipe Vitor Figueiredo Ramos** | https://github.com/Fillipe-Figueiredo-Ramos
+**Rafael Alencar do Amaral** | https://github.com/RafaelOsama
+**Daniel Guilherme Sousa Matuda** | https://github.com/Daniel-matuda
+**Gabriel Lobo** | https://github.com/G-Lobo
+**Paula Santana** | https://github.com/paula30snt
 
