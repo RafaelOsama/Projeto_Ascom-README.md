@@ -76,7 +76,7 @@ Nessa página você vai encontrar todo campo de obras e desenvolvimento referent
 
 #
 **Ex PHP do projeto**
-```PHP
+```php
 <?php
 require_once 'header.php';
 ?>
@@ -211,7 +211,7 @@ img.custom-logo {
 
 ------------------------------------------------------------
 
-**Propriedade** | **Descrição**
+**PROPRIEDADES** | **DESCRIÇÃO**
 ----------- | -----------
 *Novacap Ouvidoria* |  https://ouvidoria.df.gov.br/ 
 *Sujestão* | https://ouvidoria.df.gov.br/carta-servico-cidadao/
@@ -221,7 +221,7 @@ img.custom-logo {
 >
 ---------------------------------------------------------------
 
-**Colaboraodores** | **GitHub page**
+**COLABORADORES** | **GITHUB PAGE**
 -------------- | ----------------
 **Fillipe Vitor Figueiredo Ramos** | https://github.com/Fillipe-Figueiredo-Ramos
 **Rafael Alencar do Amaral** | https://github.com/RafaelOsama
