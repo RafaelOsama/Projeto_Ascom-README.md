@@ -211,7 +211,7 @@ img.custom-logo {
 
 ------------------------------------------------------------
 
-**PROPRIEDADES** | **DESCRIÇÃO**
+_**PROPRIEDADES**_ | _**DESCRIÇÃO**_
 ----------- | -----------
 *Novacap Ouvidoria* |  https://ouvidoria.df.gov.br/ 
 *Sujestão* | https://ouvidoria.df.gov.br/carta-servico-cidadao/
@@ -221,7 +221,7 @@ img.custom-logo {
 >
 ---------------------------------------------------------------
 
-**COLABORADORES** | **GITHUB PAGE**
+_**COLABORADORES**_ | _**GITHUB PAGE**_
 -------------- | ----------------
 **Fillipe Vitor Figueiredo Ramos** | https://github.com/Fillipe-Figueiredo-Ramos
 **Rafael Alencar do Amaral** | https://github.com/RafaelOsama
