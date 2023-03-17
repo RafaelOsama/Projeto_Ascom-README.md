@@ -209,7 +209,7 @@ img.custom-logo {
 
 ```
 
-
+------------------------------------------------------------
 
 **Propriedade** | **Descrição**
 ----------- | -----------
@@ -219,6 +219,8 @@ img.custom-logo {
 *Reclamações* | _162_
 >
 >
+---------------------------------------------------------------
+
 **Colaboraodores** | **GitHub page**
 -------------- | ----------------
 **Fillipe Vitor Figueiredo Ramos** | https://github.com/Fillipe-Figueiredo-Ramos
@@ -226,4 +228,6 @@ img.custom-logo {
 **Daniel Guilherme Sousa Matuda** | https://github.com/Daniel-matuda
 **Gabriel Lobo** | https://github.com/G-Lobo
 **Paula Santana** | https://github.com/paula30snt
+
+
 
