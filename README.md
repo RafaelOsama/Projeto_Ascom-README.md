@@ -4,7 +4,8 @@
 [Rede social](#rede-social) |
 [Avisos & Comunicados](#aviso-legal--comunicados-oficiais) |
 [Notícias](#notícias) |
-[TV Novacap](#tv-novacap)
+[TV Novacap](#tv-novacap) |
+[Clonar, organizar e intalar](#clonar-organizar-e-instalar-para-iniciar-localmente)
 
 # Bem vindo a pagina intranet da Novacap.
 Nessa página você vai encontrar todo campo de obras e desenvolvimento referente a **Novacap** em todo  _Distrito Federal e entorno._
